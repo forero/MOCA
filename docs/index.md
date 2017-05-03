@@ -3,25 +3,26 @@
 
 # FECHAS IMPORTANTES
 
-* 31 de Mayo. Cierre de inscripciones y recepción de resúmenes.
-* 10 de Junio. Confirmación de asistencia.
-* 27 de Junio. Empieza el Taller.
+- 20 de Mayo. Cierre de inscripciones y recepción de resúmenes.
+- 31 de Mayo. Publicación de asistentes aceptados.
+- 10 de Junio. Confirmación de asistencia.
+- 27 de Junio. Empieza el Taller.
 
 # PROGRAMA
 
 ## Martes, 27 de Junio 2017
 
-* 3PM - 5PM. Bienvenida. Presentaciones informales.
+- 3PM - 5PM. Bienvenida. Presentaciones informales.
 
 ## Miércoles, 28 de Junio 2017
 
-* 9AM - 12M. Presentaciones orales. 
+- 9AM - 12M. Presentaciones orales. 
 
-* 2PM - 5PM. Busqueda de temas de colaboracin.
+- 2PM - 5PM. Busqueda de temas de colaboracin.
 
 ## Jueves, 29 de Junio 2017
 
-* 9AM - 11AM. Cierre y Conclusiones.
+- 9AM - 11AM. Cierre y Conclusiones.
 
 # LUGAR 
 
