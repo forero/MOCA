@@ -24,6 +24,9 @@ Federico von der Pahlen (Universidad de Antioquia)
 Diego Restrepo (Universidad de Antioquia)  
 Juan Sebastián Valbuena (Universidad Nacional)  
 
+[**Formulario de Inscripción**](https://docs.google.com/forms/d/e/1FAIpQLSeqi9DQv6L14aApaaktTnQKF-BKtg79ZI1-tmefcm3pG_51FA/viewform?usp=sf_link)
+
+
 ### FECHAS IMPORTANTES
 
 - 26 de Mayo. Cierre de inscripciones y recepción de resúmenes.
