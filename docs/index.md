@@ -11,7 +11,7 @@ Aunque para la mayoría de nosotros la Materia Oscura no es la principal área d
 
 Esperamos que este workshop sea una plataforma para maximizar nuestra interacción y crear nuevas colaboraciones.
 
-# PARTICIPANTES CONFIRMADOS
+### PARTICIPANTES CONFIRMADOS
 
 Mario Acero (Universidad del Atlántico)  
 Nicolás Bernal (Universidad Antonio Nariño)  
@@ -21,36 +21,36 @@ Alexander Moreno (Universidad Antonio Nariño)
 Deywis Moreno (Universidad Antonio Nariño)  
 Gabriela Navarro (Universidad Antonio Nariño)  
 Federico von der Pahlen (Universidad de Antioquia)  
-Diego Restrepo (Universidad de Antioquia)
+Diego Restrepo (Universidad de Antioquia)  
 Juan Sebastián Valbuena (Universidad Nacional)  
 
-# FECHAS IMPORTANTES
+### FECHAS IMPORTANTES
 
 - 26 de Mayo. Cierre de inscripciones y recepción de resúmenes.
 - 10 de Junio. Confirmación de asistencia.
 - 27 de Junio. Empieza el Taller.
 
-# PROGRAMA
+### PROGRAMA
 
-## Martes, 27 de Junio 2017
+#### Martes, 27 de Junio 2017
 
 - 3PM - 6PM. Bienvenida. Presentaciones informales.
 
-## Miércoles, 28 de Junio 2017
+#### Miércoles, 28 de Junio 2017
 
 - 9AM - 12M. Presentaciones orales. 
 
 - 2PM - 5PM. Búsqueda de temas de colaboración.
 
-## Jueves, 29 de Junio 2017
+#### Jueves, 29 de Junio 2017
 
 - 9AM - 12AM. Cierre y Conclusiones.
 
-# LUGAR 
+### LUGAR 
 
 Departamento de Física. Universidad de los Andes. 
 
-# ASISTENTES
+### ASISTENTES
 
 La asistencia estará limitada a 20 participantes.
 La prioridad será para profesores, postdocs y estudiantes de postgrado.
