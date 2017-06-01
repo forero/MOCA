@@ -14,23 +14,23 @@ Esperamos que este workshop sea una plataforma para maximizar nuestra interacci�
 ### PARTICIPANTES CONFIRMADOS
 
 Mario Acero (Universidad del Atlántico)  
-Carlos Ávila (Universidad de los Andes)
-Juan Pablo Beltrán (Universidad Antonio Nariño)
+Carlos Ávila (Universidad de los Andes)  
+Juan Pablo Beltrán (Universidad Antonio Nariño)  
 Nicolás Bernal (Universidad Antonio Nariño)  
-Andrés Flórez (Universidad de los Andes) 
+Andrés Flórez (Universidad de los Andes)  
 Jaime Forero (Universidad de los Andes)  
-Camilo Alfredo  Garcia Cely	(Universidad Libre Bélgica)
-Jorge 	García Farieta (Universidad Nacional de Colombia)
-German 	Gomez-Vargas (Universidad Católica Chile)
-Hector Javier Hortúa (Universidad Nacional de Colombia)
-Fredy Angel	Jimenez Giraldo (Universidad de Antioquia)
-Alexander Moreno (Universidad Antonio Nariño)  
+Camilo Alfredo  Garcia Cely	(Universidad Libre Bélgica)  
+Jorge 	García Farieta (Universidad Nacional de Colombia)  
+German 	Gomez-Vargas (Universidad Católica Chile)  
+Hector Javier Hortúa (Universidad Nacional de Colombia)  
+Fredy Angel	Jimenez Giraldo (Universidad de Antioquia)  
+Alexander Moreno (Universidad Antonio Nariño)   
 Deywis Moreno (Universidad Antonio Nariño)  
 Gabriela Navarro (Universidad Antonio Nariño)  
 Federico von der Pahlen (Universidad de Antioquia)  
 Diego Restrepo (Universidad de Antioquia)  
-Eduardo Rojas (Universidad de Antioquia)
-Juan Sebastián Valbuena (Universidad Nacional)  
+Eduardo Rojas (Universidad de Antioquia)  
+Juan Sebastián Valbuena (Universidad Nacional)    
 
 
 ### FECHAS IMPORTANTES
