@@ -43,7 +43,8 @@ Juan Sebastián Valbuena (Universidad Nacional)
 
 #### Martes, 27 de Junio 2017
 
-* 15:00 - 15:20 Bienvenida.  
+**Salón Ip 101**  
+* 15:00 - 15:20 Bienvenida.
 * 15:20 - 15:40 Deywis Moreno-Lopez. Review of LHC Dark Matter Searches.  
 * 15:40 - 16:00 Carlos Ávila. Estudio fenomenológico de stops decayendo a tops y neutralinos.   
 * 16:00 - 16:20 Andrés Flórez. Conectando Materia Oscura, Partículas y Cosmología.  
@@ -51,14 +52,24 @@ Juan Sebastián Valbuena (Universidad Nacional)
 * 16:40 - 17:00 Eduardo Rojas. Minimal non-universal EW extensions of the Standard Model: a chiral multi-parameter solution.  
 
 
-#### Miércoles, 28 de Junio 2017
+#### Miércoles, 28 de Junio 2017 
 
-- 9AM - 12M. Presentaciones orales.  
-- 2PM - 5PM. Búsqueda de temas de colaboración.  
+**Salón Ip 001**  
+
+* 10:00 - 10:20 Germán Gómez-Vargas (por skype) Dark matter search with deep machine learning.   
+* 10:20 - 10:40 Camilo García-Cely (por skype) Líneas de neutrinos provenientes de la aniquilación o el decaimiento de materia oscura.  
+* 10:40 - 11:00 Nicolás Bernal. Particle Dark Matter Constraints: the Effect of Galactic Uncertainties.  
+* 11:00 - 11:20 Juan Pablo Beltrán. Axion couplings during inflation.  
+* 11:20 - 11:40 Jorge García-Farieta. Constraints on interacting dark energy and dark matter models from CMB and LSS.  
+* 11:40 - 12:00 Jaime Forero-Romero. Cosmological Dark Matter Simulations
+
+**Salón Ip 101**  
+* 14:00 - 16:00 Mesa redonda sobre posibilidades de Colaboración.  
 
 #### Jueves, 29 de Junio 2017
 
-- 9AM - 12AM. Cierre y Conclusiones.  
+**Salón Ip 101**  
+* 10:00 - 12:00. Cierre y Conclusiones.  
 
 ### LUGAR 
 
