@@ -43,7 +43,6 @@ Juan Sebastián Valbuena (Universidad Nacional)
 
 #### Martes, 27 de Junio 2017
 
-- 3PM - 6PM. Bienvenida. Presentaciones informales.  
 * 15:00 - 15:20 Bienvenida.  
 * 15:20 - 15:40 Deywis Moreno-Lopez. Review of LHC Dark Matter Searches.  
 * 15:40 - 16:00 Carlos Ávila. Estudio fenomenológico de stops decayendo a tops y neutralinos.   
