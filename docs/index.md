@@ -17,6 +17,7 @@ Mario Acero (Universidad del Atlántico)
 Carlos Ávila (Universidad de los Andes)  
 Juan Pablo Beltrán (Universidad Antonio Nariño)  
 Nicolás Bernal (Universidad Antonio Nariño)  
+Xavier Bertou (Instituto Balseiro)  
 Andrés Flórez (Universidad de los Andes)  
 Jaime Forero (Universidad de los Andes)  
 Camilo Alfredo  Garcia Cely	(Universidad Libre Bélgica)  
@@ -28,7 +29,8 @@ Alexander Moreno (Universidad Antonio Nariño)
 Deywis Moreno (Universidad Antonio Nariño)  
 Gabriela Navarro (Universidad Antonio Nariño)  
 Federico von der Pahlen (Universidad de Antioquia)  
-Diego Restrepo (Universidad de Antioquia)  
+Luis Fernando Quiroga (Universidad de Antioquia)  
+Diego Restrepo (Universidad de Antioquia)  
 Eduardo Rojas (Universidad de Antioquia)  
 Juan Sebastián Valbuena (Universidad Nacional)    
 
@@ -65,6 +67,7 @@ Juan Sebastián Valbuena (Universidad Nacional)
 
 **Salón Ip 101**  
 * 14:00 - 16:00 Mesa redonda sobre posibilidades de Colaboración.  
+* 16:00 - 16:30 Xavier Bertou (por skype). El Laboratorio Subterráneo ANDES.  
 
 #### Jueves, 29 de Junio 2017
 
