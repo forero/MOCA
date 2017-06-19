@@ -30,9 +30,9 @@ Deywis Moreno (Universidad Antonio Nariño)
 Gabriela Navarro (Universidad Antonio Nariño)  
 Federico von der Pahlen (Universidad de Antioquia)  
 Luis Fernando Quiroga (Universidad de Antioquia)  
-Diego Restrepo (Universidad de Antioquia)  
-Eduardo Rojas (Universidad de Antioquia)  
-Juan Sebastián Valbuena (Universidad Nacional)    
+Diego Restrepo (Universidad de Antioquia)   
+Eduardo Rojas (Universidad de Antioquia) 
+Juan Sebastián Valbuena (Universidad Nacional)    
 
 
 ### FECHAS IMPORTANTES
