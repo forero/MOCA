@@ -50,9 +50,7 @@ Juan Sebastián Valbuena (Universidad Nacional)
 * 14:20 - 14:40 Deywis Moreno-Lopez. Review of LHC Dark Matter Searches.  
 * 14:40 - 15:00 Carlos Ávila. Estudio fenomenológico de stops decayendo a tops y neutralinos.   
 * 15:00 - 15:20 Andrés Flórez. Conectando Materia Oscura, Partículas y Cosmología.  
-
 * 15:20 - 16:00 Pausa
-
 * 16:00 - 16:20 Xavier Bertou (por Skype). ANDES
 * 16:20 - 16:40 Diego Restrepo. Dark matter in left-right symmetric standard model.  
 * 16:40 - 17:00 Eduardo Rojas. Minimal non-universal EW extensions of the Standard Model: a chiral multi-parameter solution.
