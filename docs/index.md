@@ -51,10 +51,10 @@ Juan Sebastián Valbuena (Universidad Nacional)    
 * 14:40 - 15:00 Carlos Ávila. Estudio fenomenológico de stops decayendo a tops y neutralinos.   
 * 15:00 - 15:20 Andrés Flórez. Conectando Materia Oscura, Partículas y Cosmología.  
 * 15:20 - 16:00 Pausa
-* 16:00 - 16:20 Xavier Bertou (por Skype). ANDES
-* 16:20 - 16:40 Diego Restrepo. Dark matter in left-right symmetric standard model.  
-* 16:40 - 17:00 Eduardo Rojas. Minimal non-universal EW extensions of the Standard Model: a chiral multi-parameter solution.
-* 17:00 - 17:20 Amalia Betancur (por skype). A model of Electroweak scale dark matter with neutrino masses.
+* 16:00 - 16:30 Xavier Bertou (por Skype). ANDES
+* 16:30 - 16:50 Diego Restrepo. Dark matter in left-right symmetric standard model.  
+* 16:50 - 17:10 Eduardo Rojas. Minimal non-universal EW extensions of the Standard Model: a chiral multi-parameter solution.
+* 17:10 - 17:30 Amalia Betancur (por skype). A model of Electroweak scale dark matter with neutrino masses.
 
 #### Miércoles, 28 de Junio 2017 
 
