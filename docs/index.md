@@ -46,18 +46,21 @@ Juan Sebastián Valbuena (Universidad Nacional)
 #### Martes, 27 de Junio 2017
 
 **Salón Ip 101**  
-* 15:00 - 15:20 Deywis Moreno-Lopez. Review of LHC Dark Matter Searches.  
-* 15:20 - 15:40 Carlos Ávila. Estudio fenomenológico de stops decayendo a tops y neutralinos.   
-* 15:40 - 16:00 Andrés Flórez. Conectando Materia Oscura, Partículas y Cosmología.  
-* 16:00 - 16:20 Diego Restrepo. Dark matter in left-right symmetric standard model.  
-* 16:20 - 16:40 Eduardo Rojas. Minimal non-universal EW extensions of the Standard Model: a chiral multi-parameter solution.
-* 16:40 - 17:00 Amalia Betancur (por skype). A model of Electroweak scale dark matter with neutrino masses.
+* 14:00 - 14:20 Bienvenida
+* 14:20 - 14:40 Deywis Moreno-Lopez. Review of LHC Dark Matter Searches.  
+* 14:40 - 15:00 Carlos Ávila. Estudio fenomenológico de stops decayendo a tops y neutralinos.   
+* 15:00 - 15:20 Andrés Flórez. Conectando Materia Oscura, Partículas y Cosmología.  
 
+* 15:20 - 16:00 Pausa
+
+* 16:00 - 16:20 Xavier Bertou (por Skype). ANDES
+* 16:20 - 16:40 Diego Restrepo. Dark matter in left-right symmetric standard model.  
+* 16:40 - 17:00 Eduardo Rojas. Minimal non-universal EW extensions of the Standard Model: a chiral multi-parameter solution.
+* 17:00 - 17:20 Amalia Betancur (por skype). A model of Electroweak scale dark matter with neutrino masses.
 
 #### Miércoles, 28 de Junio 2017 
 
 **Salón Ip 001**  
-
 * 10:00 - 10:20 Germán Gómez-Vargas (por skype) Dark matter search with deep machine learning.   
 * 10:20 - 10:40 Camilo García-Cely (por skype) Líneas de neutrinos provenientes de la aniquilación o el decaimiento de materia oscura.  
 * 10:40 - 11:00 Nicolás Bernal. Particle Dark Matter Constraints: the Effect of Galactic Uncertainties.  
@@ -67,7 +70,6 @@ Juan Sebastián Valbuena (Universidad Nacional)
 
 **Salón Ip 101**  
 * 14:00 - 16:00 Mesa redonda sobre posibilidades de Colaboración.  
-* 16:00 - 16:30 Xavier Bertou (por skype). El Laboratorio Subterráneo ANDES.  
 
 #### Jueves, 29 de Junio 2017
 
