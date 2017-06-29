@@ -45,7 +45,7 @@ Juan Sebastián Valbuena (Universidad Nacional)    
 #### Martes, 27 de Junio 2017
 
 **Salón Ip 101**  
-* 14:00 - 14:20 Bienvenida
+* 14:00 - 14:20 Bienvenida [pdf](pdf/2017/intro.pdf)
 * 14:20 - 14:40 Deywis Moreno-Lopez. Review of LHC Dark Matter Searches.  
 * 14:40 - 15:00 Carlos Ávila. Estudio fenomenológico de stops decayendo a tops y neutralinos.   
 * 15:00 - 15:20 Andrés Flórez. Conectando Materia Oscura, Partículas y Cosmología.  
