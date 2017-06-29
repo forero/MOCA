@@ -45,13 +45,13 @@ Juan Sebastián Valbuena (Universidad Nacional)    
 #### Martes, 27 de Junio 2017
 
 **Salón Ip 101**  
-* 14:00 - 14:20 Bienvenida [pdf](pdf/2017/intro.pdf)
-* 14:20 - 14:40 Deywis Moreno-Lopez. Review of LHC Dark Matter Searches.  
+* 14:00 - 14:20 Bienvenida [[pdf](pdf/2017/intro.pdf)]
+* 14:20 - 14:40 Deywis Moreno-Lopez. Review of LHC Dark Matter Searches.  [[pdf](pdf/2017/moreno.pdf)]
 * 14:40 - 15:00 Carlos Ávila. Estudio fenomenológico de stops decayendo a tops y neutralinos.   
-* 15:00 - 15:20 Andrés Flórez. Conectando Materia Oscura, Partículas y Cosmología.  
+* 15:00 - 15:20 Andrés Flórez. Conectando Materia Oscura, Partículas y Cosmología.  [[pdf](pdf/2017/florez.pdf)]
 * 15:20 - 16:00 Pausa
-* 16:00 - 16:30 Xavier Bertou (por Skype). ANDES: un laboratorio subterráneo en America Latina.
-* 16:30 - 16:50 Diego Restrepo. Dark matter in left-right symmetric standard model.  
+* 16:00 - 16:30 Xavier Bertou (por Skype). ANDES: un laboratorio subterráneo en America Latina. [[pdf](pdf/2017/bertou.pdf)]
+* 16:30 - 16:50 Diego Restrepo. Dark matter in left-right symmetric standard model.  [[pdf](pdf/2017/restrepo.pdf)]
 * 16:50 - 17:10 Amalia Betancur (por skype). A model of Electroweak scale dark matter with neutrino masses.
 
 #### Miércoles, 28 de Junio 2017 
@@ -59,10 +59,10 @@ Juan Sebastián Valbuena (Universidad Nacional)    
 **Salón Ip 001**  
 * 10:00 - 10:20 Germán Gómez-Vargas (por skype) Dark matter search with deep machine learning.   
 * 10:20 - 10:40 Camilo García-Cely (por skype) Líneas de neutrinos provenientes de la aniquilación o el decaimiento de materia oscura.  
-* 10:40 - 11:00 Nicolás Bernal. Particle Dark Matter Constraints: the Effect of Galactic Uncertainties.  
-* 11:00 - 11:20 Juan Pablo Beltrán. Axion couplings during inflation.  
+* 10:40 - 11:00 Nicolás Bernal. Particle Dark Matter Constraints: the Effect of Galactic Uncertainties.  [[pdf](pdf/2017/bernal.pdf)]
+* 11:00 - 11:20 Juan Pablo Beltrán. Axion couplings during inflation.  [[pdf](pdf/2017/beltran.pdf)]
 * 11:20 - 11:40 Jorge García-Farieta. Constraints on interacting dark energy and dark matter models from CMB and LSS.  
-* 11:40 - 12:00 Jaime Forero-Romero. Cosmological Dark Matter Simulations
+* 11:40 - 12:00 Jaime Forero-Romero. Cosmological Dark Matter Simulations. [[pdf](pdf/2017/forero.pdf)]
 
 **Salón Ip 101**  
 * 14:00 - 16:00 Mesa redonda sobre posibilidades de Colaboración.  
