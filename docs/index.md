@@ -61,7 +61,7 @@ Juan Sebastián Valbuena (Universidad Nacional)    
 * 10:20 - 10:40 Camilo García-Cely (por skype) Líneas de neutrinos provenientes de la aniquilación o el decaimiento de materia oscura.  
 * 10:40 - 11:00 Nicolás Bernal. Particle Dark Matter Constraints: the Effect of Galactic Uncertainties.  [[pdf](pdf/2017/bernal.pdf)]
 * 11:00 - 11:20 Juan Pablo Beltrán. Axion couplings during inflation.  [[pdf](pdf/2017/beltran.pdf)]
-* 11:20 - 11:40 Jorge García-Farieta. Constraints on interacting dark energy and dark matter models from CMB and LSS.  
+* 11:20 - 11:40 Jorge García-Farieta. Constraints on interacting dark energy and dark matter models from CMB and LSS.  [[pdf](pdf/2017/farieta.pdf)]
 * 11:40 - 12:00 Jaime Forero-Romero. Cosmological Dark Matter Simulations. [[pdf](pdf/2017/forero.pdf)]
 
 **Salón Ip 101**  
