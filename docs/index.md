@@ -52,7 +52,7 @@ Juan Sebastián Valbuena (Universidad Nacional)    
 * 15:20 - 16:00 Pausa
 * 16:00 - 16:30 Xavier Bertou (por Skype). ANDES: un laboratorio subterráneo en America Latina. [[pdf](pdf/2017/bertou.pdf)]
 * 16:30 - 16:50 Diego Restrepo. Dark matter in left-right symmetric standard model.  [[pdf](pdf/2017/restrepo.pdf)]
-* 16:50 - 17:10 Amalia Betancur (por skype). A model of Electroweak scale dark matter with neutrino masses.
+* 16:50 - 17:10 Amalia Betancur (por skype). A model of Electroweak scale dark matter with neutrino masses. [[pdf](pdf/2017/betancur.pdf)]
 
 #### Miércoles, 28 de Junio 2017 
 
